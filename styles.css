@@ -1,0 +1,14 @@
+body{
+    background: #222222;
+    color:#ffffff;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+.subtitle{
+    font-size:.85em;
+}
+main{
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 5%;
+}
